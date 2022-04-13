@@ -9,6 +9,6 @@ int total = 0;
 
 for (int i =0 ; i< Notas.Length; i++){
     total = valor / Notas[i];
-    System.Console.WriteLine($"{total} nota(s) de {Notas[i]},00 real(is)");
+    System.Console.WriteLine($"{total} nota(s) de {Notas[i]},00 reais)");
     valor %= Notas[i];
 }
