@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\Cedula\ContarCedula\bin\Debug\net6.0\ContarCedula.exe
+C:\Users\patri\Desktop\Cedula\ContarCedula\bin\Debug\net6.0\ContarCedula.deps.json
+C:\Users\patri\Desktop\Cedula\ContarCedula\bin\Debug\net6.0\ContarCedula.runtimeconfig.json
+C:\Users\patri\Desktop\Cedula\ContarCedula\bin\Debug\net6.0\ContarCedula.dll
+C:\Users\patri\Desktop\Cedula\ContarCedula\bin\Debug\net6.0\ContarCedula.pdb
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.AssemblyInfo.cs
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.dll
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\refint\ContarCedula.dll
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.pdb
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ContarCedula.genruntimeconfig.cache
+C:\Users\patri\Desktop\Cedula\ContarCedula\obj\Debug\net6.0\ref\ContarCedula.dll
